@@ -1,0 +1,13 @@
+functions/node_modules/
+functions/.env
+functions/.env.*
+functions/lib/
+.claude/
+.DS_Store
+build/
+GoogleService-Info.plist
+*.p8
+*.p12
+*.cer
+xcuserdata/
+.swiftpm
